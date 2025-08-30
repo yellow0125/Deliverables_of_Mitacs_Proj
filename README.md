@@ -36,7 +36,7 @@ This repository contains the complete codebase, reports, models, and documentati
 - [Supervisor] 
 - [Member 1]  
 - [Tracy Huang]  
-- [Member 2]  
+- [Lesley Chen]  
 - [Member 2]  
  
  
@@ -57,4 +57,15 @@ Working on this project has been a valuable and rewarding research experience. T
 
 Through this project, I dedicated my efforts to ensure the best possible outcomes, not only by contributing to technical aspects but also by supporting the integration of ideas and resources. I have learned the importance of both internal teamwork and external collaboration in driving research success.  
 
+##### Lesley
+Through this valuable project, I learned both technical skills and research practices.
 
+I worked on detecting water areas and identifying living trees. U-Net was my starting point, and I compared backbones such as ResNet50 and DeepLab. This showed me how architecture choice can affect performance. I also experimented with optimizers and learning rates to fine-tune results. For alive tree, I tested traditional methods like RGB-based indices and selected the one that fit our dataset best.
+
+I also explored how to convert 2D image predictions into geometric maps. This step helped me connect computer vision outputs with spatial analysis and see their value in forest monitoring.
+
+Collaboration played a big role. Weekly discussions with teammates and feedback from our professor guided my work and kept me focused on practical applications.
+
+What motivated me most was the project’s purpose. Forest health and wildfire prevention are urgent issues. Knowing that our work could make a difference made the effort feel meaningful.
+
+This experience strengthened my technical skills in computer vision and geospatial analysis. It also taught me persistence, adaptability, and teamwork. There is still room to improve, but I’m proud of what we achieved together.
