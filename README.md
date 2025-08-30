@@ -27,5 +27,14 @@ This repository contains the complete codebase, reports, models, and documentati
   - A few representative dataset images and annotations (not the full dataset)  
 
 
-  
+## 👥 Contributors  
+
+- [Supervisor] 
+- [Member 1]  
+- [Tracy Huang]  
+- [Member 2]  
+- [Member 2]  
+ 
+
+
 
