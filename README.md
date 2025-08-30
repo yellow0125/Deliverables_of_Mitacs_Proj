@@ -21,7 +21,7 @@ This repository contains the complete codebase, reports, models, and documentati
   - Final project documentation  
 
 - **`/paper/`**  
-  - Final version of our paper  
+  - Drafts and Final version of our paper  
 
 - **`/dataset_samples/`**  
   - A few representative dataset images and annotations (not the full dataset)  
