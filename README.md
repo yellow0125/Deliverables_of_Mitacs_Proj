@@ -25,10 +25,8 @@ This repository contains the complete codebase, reports, models, and documentati
 
 - **`/dataset_samples/`**  
   - A few representative dataset images and annotations (not the full dataset)  
-
-- **Reflection.pdf**
-  - 
-
+  - The dataset can be found in Roboflow universe, id: spexi-forest-fire-oblique-images
+    https://universe.roboflow.com/search?q=spexi-forest-fire-oblique-images
 
 ## 👥 Contributors  
 
@@ -41,17 +39,14 @@ This repository contains the complete codebase, reports, models, and documentati
  
  ## 🙌 Reflection  
 
+##### 👩‍💻Tracy
 Working on this project has been both challenging and rewarding.  
 
-- The technical side pushed us to explore cutting-edge models like **Mask2Former**, while still leveraging more traditional architectures like **U-Net** for comparison.  
-- There were difficulties with **dataset imbalance, annotation work, and high-resolution UAV imagery**, but tackling these made the models stronger and the research more meaningful.  
-- Weekly discussions and collaboration helped shape the direction of the work and kept the focus on practical applications, such as **real-time wildfire monitoring**.  
-
-**On a personal note**
- 
- Tracy:
- this project has been a valuable learning journey. I not only strengthened my skills in **computer vision and AI research**, but also learned the importance of **teamwork, communication, and persistence** when challenges arose.  It was inspiring to work on a project that has real-world impact, especially in the critical area of wildfire prevention and risk management. I feel proud of what we achieved together as a team. While there are always areas to improve, the project represents a solid foundation for future research and applications.  
-
+- On the technical side, we explored advanced models like **Mask2Former**, and also used classic ones like **U-Net** for comparison.  This helped me better understand **image segmentation** and how it applies in real-world situations.
+- We faced real challenges— **dataset imbalance**, **time-consuming annotation**, and **the complexity of high-resolution UAV imagery**. Dealing with **oblique images** also brought unexpected issues like distortion, occlusion, and lighting changes. These problems weren’t easy, but solving them taught me a lot and made our models stronger.
+- Weekly discussions and collaboration helped shape the direction of the work and kept the focus on practical applications. 
+- What made this project stand out for me was **the sense of purpose**. Forest fires are real, urgent problems. Knowing that this project might actually help with early detection made it more than just an academic exercise—it felt relevant. 
+- This project has been a meaningful learning experience. I’ve grown not only in my AI and computer vision skills, but also in how I approach teamwork, communication, and persistence—especially when things got tough. There’s still plenty of room to improve, but I’m proud of what we’ve built so far.
 
 
 
