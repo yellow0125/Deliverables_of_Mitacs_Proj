@@ -34,7 +34,7 @@ This repository contains the complete codebase, reports, models, and documentati
 ## 👥 Contributors  
 
 - [Supervisor] 
-- [Member 1]  
+- [Victor Wu]  
 - [Tracy Huang]  
 - [Lesley Chen]  
 - [Member 2]  
@@ -69,3 +69,13 @@ Collaboration played a big role. Weekly discussions with teammates and feedback 
 What motivated me most was the project’s purpose. Forest health and wildfire prevention are urgent issues. Knowing that our work could make a difference made the effort feel meaningful.
 
 This experience strengthened my technical skills in computer vision and geospatial analysis. It also taught me persistence, adaptability, and teamwork. There is still room to improve, but I’m proud of what we achieved together.
+
+##### Victor
+
+This project gave me the chance to apply my skills in machine learning and software engineering to a real-world challenge.
+	•	On the technical side, I focused on building and refining the geolocation pipeline, which mapped pixel detections in UAV imagery to GPS coordinates. This required working with geometry-based calculations, integrating metadata such as pitch, heading, and altitude, and improving results with offset correction models.
+	•	I also contributed to the evaluation framework, developing metrics like Prediction Cluster Compactness and integrating tools for analyzing geolocation errors. This helped us measure not just accuracy, but also consistency across multiple UAV views.
+	•	Working with both nadir and oblique imagery gave me a deeper understanding of the trade-offs between perspectives, particularly the advantages of oblique images in identifying fuels and debris that nadir views often miss.
+	•	Collaborating with the team on weekly discussions and experiments was a key part of keeping the project moving forward. The iterative process of testing, debugging, and refining our methods taught me how to balance research creativity with engineering discipline.
+
+What stood out most was the practical significance of the work. Wildfire detection and risk assessment are urgent challenges, and it felt meaningful to see how UAVs and computer vision could contribute to solutions. Through this project, I strengthened not only my technical foundation in computer vision, machine learning, and UAV systems, but also my ability to collaborate in a research setting and communicate complex results clearly.
