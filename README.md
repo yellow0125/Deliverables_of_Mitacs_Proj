@@ -19,7 +19,7 @@ This repository contains the complete codebase, reports, models, and documentati
 - **`/reports/`**  
   - Weekly meeting reports (PDF format)  
   - Final project documentation
-  - 
+    
 - **`/spexi_codebase/`**
   - provides the source code for the Spexi wildfire prediction and geolocation mapping pipeline
 
