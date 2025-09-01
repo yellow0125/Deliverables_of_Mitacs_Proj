@@ -11,7 +11,8 @@ This repository contains the complete codebase, reports, models, and documentati
 
 - **`/models/`**  
   - Trained model checkpoints  
-  - Final weights used for experiments  
+  - Final weights used for experiments
+  - Config files for training  
 
 - **`/video_processing/`**  
   - The final script for video processing and result visualization 
@@ -21,7 +22,7 @@ This repository contains the complete codebase, reports, models, and documentati
   - Final project documentation
     
 - **`/spexi_codebase/`**
-  - provides the source code for the Spexi wildfire prediction and geolocation mapping pipeline
+  - provides the source code for the Spexi wildfire prediction and geopixel mapping
 
 - **`/paper/`**  
   - Drafts and Final version of our paper  
