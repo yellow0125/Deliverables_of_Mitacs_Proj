@@ -18,7 +18,10 @@ This repository contains the complete codebase, reports, models, and documentati
 
 - **`/reports/`**  
   - Weekly meeting reports (PDF format)  
-  - Final project documentation  
+  - Final project documentation
+  - 
+- **`/spexi_codebase/`**
+  - provides the source code for the Spexi wildfire prediction and geolocation mapping pipeline
 
 - **`/paper/`**  
   - Drafts and Final version of our paper  
@@ -37,7 +40,7 @@ This repository contains the complete codebase, reports, models, and documentati
 - [Victor Wu]  
 - [Tracy Huang]  
 - [Lesley Chen]  
-- [Member 2]  
+- [Sujit Nashik]  
  
  
  ## 🙌 Reflection  
@@ -79,3 +82,10 @@ This project gave me the chance to apply my skills in machine learning and softw
 	•	Collaborating with the team on weekly discussions and experiments was a key part of keeping the project moving forward. The iterative process of testing, debugging, and refining our methods taught me how to balance research creativity with engineering discipline.
 
 What stood out most was the practical significance of the work. Wildfire detection and risk assessment are urgent challenges, and it felt meaningful to see how UAVs and computer vision could contribute to solutions. Through this project, I strengthened not only my technical foundation in computer vision, machine learning, and UAV systems, but also my ability to collaborate in a research setting and communicate complex results clearly.
+
+##### Sujit
+
+Throughout this project, I had the opportunity to engage with a wide range of new tools and technologies that expanded my skill set. I began by exploring computer vision frameworks, experimenting with different models and training parameters to analyze how various configurations affected performance. I also worked with 3D visualization libraries, which, although new and at times challenging, were highly rewarding. These tools opened new perspectives on data representation and deepened my understanding of how results can be communicated effectively. The geospatial mapping pixel project work was entirely new to me, teaching me to quickly adapt to unfamiliar technologies and find solutions to challenging problems.
+
+Overall, I dedicated myself fully to this project, from learning new technologies to innovating and implementing solutions. I'm happy to have contributed meaningfully and proud of the progress achieved.
+
